@@ -36,31 +36,31 @@ The application is organized into the following packages:
 
 ### Usage
 
-- Create two instances of the InitiatorPlayer and RecipientPlayer classes.
+1. Create two instances of the InitiatorPlayer and RecipientPlayer classes.
 
-- The initiator player sends a message to the recipient player.
+2. The initiator player sends a message to the recipient player.
 
--Upon receiving a message, the recipient player replies with a modified message containing the received message concatenated with a counter.
+3. Upon receiving a message, the recipient player replies with a modified message containing the received message concatenated with a counter.
 
-- The program gracefully finalizes after the initiator player has sent 10 messages and received back 10 messages.
+4. The program gracefully finalizes after the initiator player has sent 10 messages and received back 10 messages.
 
 ### Installation
 
 To run the PlayerCommunicationSystem application locally, follow these steps:
 
-- Clone the repository from GitHub
-- Import the project into your preferred Java IDE.
-- Build the project to resolve any dependencies.
-- Run the Main class to start the application.
+1. Clone the repository from GitHub
+2. Import the project into your preferred Java IDE.
+3. Build the project to resolve any dependencies.
+4. Run the Main class to start the application.
   
 ### Contributing
 
 If you'd like to contribute to the PlayerCommunicationSystem project, please follow these guidelines:
 
-- Fork the repository and create a new branch for your contribution.
-- Make your changes and test thoroughly.
-- Submit a pull request, describing your changes and the problem they solve.
-- Ensure your code follows the project's coding style and guidelines.
+1. Fork the repository and create a new branch for your contribution.
+2. Make your changes and test thoroughly.
+3. Submit a pull request, describing your changes and the problem they solve.
+4. Ensure your code follows the project's coding style and guidelines.
 
 ### License
 
