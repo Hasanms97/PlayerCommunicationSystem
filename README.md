@@ -8,11 +8,11 @@ The application is organized into the following packages:
 
 ### client
 
-**Client**: Represents a client that connects to a server and communicates with it. It is the superclass for InitiatorPlayer and RecipientPlayer classes.
+- **Client**: Represents a client that connects to a server and communicates with it. It is the superclass for InitiatorPlayer and RecipientPlayer classes.
 
-**InitiatorPlayer**: Represents the initiator player client. It sends messages to the server and receives modified messages from the recipient player.
++ **InitiatorPlayer**: Represents the initiator player client. It sends messages to the server and receives modified messages from the recipient player.
 
-**RecipientPlayer**: Represents the recipient player client. It connects to the server, sends auto-generated messages, and listens for messages from the server.
+* **RecipientPlayer**: Represents the recipient player client. It connects to the server, sends auto-generated messages, and listens for messages from the server.
 
 ### handler
 
