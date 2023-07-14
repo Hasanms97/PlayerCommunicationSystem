@@ -37,11 +37,8 @@ The application is organized into the following packages:
 ### Usage
 
 1. Create two instances of the InitiatorPlayer and RecipientPlayer classes.
-
 2. The initiator player sends a message to the recipient player.
-
 3. Upon receiving a message, the recipient player replies with a modified message containing the received message concatenated with a counter.
-
 4. The program gracefully finalizes after the initiator player has sent 10 messages and received back 10 messages.
 
 ### Installation
